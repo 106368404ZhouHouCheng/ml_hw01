@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jones/demo/tensorflow/cat_vs_dog/dogvscat-0.001--2conv-basic.model"
+all_model_checkpoint_paths: "/home/jones/demo/tensorflow/cat_vs_dog/dogvscat-0.001--2conv-basic.model"
