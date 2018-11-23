@@ -1,4 +1,3 @@
-ml_hw01
 
 cat_vs_dog
 train data and test data in the kaggle website:
